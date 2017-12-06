@@ -1,3 +1,7 @@
+'''
+3 People following each other with steplegth of half the distance to the followed person
+'''
+
 from turtle import Screen, Turtle
 import time
 from math import sqrt
