@@ -1,3 +1,6 @@
+'''
+3 people following each other with steplength of 1px 
+'''
 from turtle import Screen, Turtle
 import time
 from math import sqrt
